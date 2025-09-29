@@ -2,7 +2,7 @@
 
 ### 📌 Цель
 
-- Реализовать Vue-компонент `GameBoard` (из `./containers/GameBoard`). ![Пример изображения](./public/example.png)
+- Реализовать Vue-компонент `GameBoard` (из `./containers/GameBoard`). ![Пример изображения](/src/assets/example.png)
 
 ### 📐 Условия
 
