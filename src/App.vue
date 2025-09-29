@@ -49,7 +49,7 @@ p {
 }
 
 .logo {
-  height: 130px;
-  padding: 1em;
+  height: 80px;
+  padding: 15px;
 }
 </style>
